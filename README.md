@@ -1,11 +1,15 @@
 # ai201_fall2021
 Repository for AI201 Programming for AI course.
 
-## Books
+## Resources
+### Books
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming 2nd Edition**
 by Eric Matthes 
 
 **Introduction to Computation and Programming Using Python: With Application to Understanding Data, by John V. Guttag, 2nd Edition**, MIT Press, 2016
+
+### Online
+[Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
 
 ## Outline
 Week 01 - Introduction to Course. Introduction to Python. I/O in Python.  
