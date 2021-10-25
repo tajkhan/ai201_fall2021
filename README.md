@@ -9,7 +9,7 @@ by Eric Matthes
 **Introduction to Computation and Programming Using Python: With Application to Understanding Data, by John V. Guttag, 2nd Edition**, MIT Press, 2016
 
 ### Online
-[Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
+[Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)  
 [Python Tutorial](https://docs.python.org/3/tutorial/)
 
 ## Outline
