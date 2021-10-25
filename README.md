@@ -10,6 +10,7 @@ by Eric Matthes
 
 ### Online
 [Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
+[Python Tutorial](https://docs.python.org/3/tutorial/)
 
 ## Outline
 Week 01 - Introduction to Course. Introduction to Python. I/O in Python.  
