@@ -27,6 +27,7 @@ Empty and single-element syntax is slightly peculiar:
 ```python
 empty = ()
 singleton = 'hello',    # <-- note trailing comma
+# compare with: singleton = 'hello'
 print (len(empty))
 # output: 0
 print (len(singleton))
@@ -55,6 +56,10 @@ t[0] = 88888
 v = ([1, 2, 3], [3, 2, 1])
 print (v)
 # output: ([1, 2, 3], [3, 2, 1])
+
+v[0][1] = 55 
+print (v)
+# output: ([1, 55, 3], [3, 2, 1])
 ```
 
 ### Packing and Unpacking
@@ -65,8 +70,3 @@ t = 12345, 54321, 'hello!'
 # unpacking tuple values
 x, y, z = t
 ```
-
-
-#### Disclaimer
-Code examples are ~taken~ inspired from various sources including:  
-[Python tutorial](https://docs.python.org/3/tutorial/)  

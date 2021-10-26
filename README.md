@@ -28,3 +28,8 @@ Week 12 - Introduction to Pandas.
 Week 13 - Introduction to Pandas-II.  
 Week 14 - Introduction to MatplotLib.  
 Week 15 - Project Presentations.  
+
+
+#### Disclaimer
+Code examples are ~taken~ inspired from various sources including:  
+[Python tutorial](https://docs.python.org/3/tutorial/)  
