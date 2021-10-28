@@ -4,6 +4,7 @@
 - unordered, i.e., the order of elements is not guaranteed and they are
 unindexable!  
 - have no duplicate elements  
+- each element is a _hashable_ type
 
 You can use them to eliminate duplicate entries of a sequence and  
 test for _membership_, i.e., whether a member is present in a set or not.  
@@ -47,6 +48,13 @@ a = {x for x in 'abracadabra' if x not in 'abc'}
 print(a)
 ```
 
+As opposed to _tuples_, _sets_ themselves are mutable but there elements are not.
 
-Links:  
+## Points to ponder:
+1. Can we have a list of sets? Why?
+2. Can we have a set of lists? Why?
+3. What does hashable mean in Python? Where do we need hashable types? Why?
+
+## Links:  
 [Unorderliness of sets](https://stackoverflow.com/questions/21701618/why-does-a-set-display-in-same-order-if-sets-are-unordered)
+[Why set elements have to be hashable?](https://www.reddit.com/r/learnpython/comments/6zwefw/comment/dmyj8sv/?utm_source=share&utm_medium=web2x&context=3)

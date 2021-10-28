@@ -80,6 +80,7 @@ for k, v in knights.items():
 
 
 Links:  
+[How Python Dictionary Works (PyCon2010)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 [Dictionary View Objects](https://johnlekberg.com/blog/2020-09-19-dict-view.html)
 
 ```python
