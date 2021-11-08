@@ -15,6 +15,7 @@ by Eric Matthes
 #### Advanced:
 [Understanding Python via built-ins](https://sadh.life/post/builtins/)
 [CPython Internals](https://www.youtube.com/playlist?list=PLwyG5wA5gIzgTFj5KgJJ15lxq5Cv6lo_0)
+[Notions de Python Avancees (in french)](https://zestedesavoir.com/tutoriels/954/notions-de-python-avancees/)
 
 ## Outline
 Week 01 - Introduction to Course. Introduction to Python. I/O in Python.  
